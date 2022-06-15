@@ -17,6 +17,7 @@ make
 ```  
 
 ## Running
+```
 cd bin  
 ./whole_body_controller  
-
+```
