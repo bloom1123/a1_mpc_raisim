@@ -9,7 +9,7 @@ install raisim according to the instruction
 https://raisim.com/sections/Installation.html
 
 ## Build
-cd {your workspace}  
+'<cd {your workspace}>' 
 mkdir build  
 cmake ..  
 make  
