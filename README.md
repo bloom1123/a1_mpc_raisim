@@ -12,7 +12,7 @@ https://raisim.com/sections/Installation.html
 ``` cd {your workspace}  
 mkdir build  
 cmake ..  
-make ```   
+make ```  
 
 ## Running
 cd bin  
