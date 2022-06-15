@@ -21,3 +21,4 @@ make
 cd bin  
 ./whole_body_controller  
 ```
+![img](https://github.com/bloom1123/a1_mpc_raisim/blob/master/A1.gif)
